@@ -1,2 +1,14 @@
 # CALCULATORY-APP
-A beginner-friendly Python calculator app supporting addition, subtraction, multiplication, and division.
+# Calculator App
+
+This is my first GitHub project.
+
+## Features
+- Addition
+- Subtraction
+- Multiplication
+- Division
+
+## How to run
+1. Install Python
+2. Run: python calculator.py
